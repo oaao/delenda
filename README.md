@@ -1,7 +1,7 @@
 # delenda
 
-> Google delenta Nest.
+> “ Google delenta Nest. ”
 > 
->     — Cato the Elder
+> &nbsp; &nbsp; — *Cato the Elder*
 
 A homebrew DLNA controller — putting the `U` back in `UPnP`.
