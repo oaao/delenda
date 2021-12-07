@@ -1,6 +1,6 @@
 # delenda
 
-> “ Google delenta Nest. ”
+> “ Google delenda Nest. ”
 > 
 > &nbsp; &nbsp; — *Cato the Elder*
 
